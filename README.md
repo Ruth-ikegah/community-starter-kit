@@ -1,13 +1,13 @@
 # welcome bot: A Probot App
 
-A GitHub App built with [probot](https://github.com/probot/probot) that celebrates new user activity within your repository.
+This is a  GitHub App built with [probot](https://github.com/probot/probot) that Notifies when a  new user makes an activity within your repository.
 
 ## What it does
 
-Welcome new users with maintainer defined comments the first time your users:
-- Create a new issue
-- Open a new pull request
-- Merge their first pull request
+Welcome new users with Admin defined comments the first time your users:
+- Creates a new issue
+- Opens a new pull request
+- Merges their first pull request
 
 ## Getting started
 
@@ -50,8 +50,7 @@ For some inspiration about what kind of content to include in your .github/confi
 
 If you need help using this app, we encourage you to:
 
-- Check out the [Getting Started Guide](docs/getting-started.md) in the docs folder of this repository
-- If you can't find the answer there, open an issue in this repository and add the label `question`
+- open an issue in this repository and add the label `question`
 
 ## Project maintainers
 
